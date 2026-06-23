@@ -1,7 +1,7 @@
 const menunav = document.querySelector('.menu-nav');
 
 const menunv = [
-    '&#x2623; Hospitalar &#x2623;', 
+    'Hospitalar', 
     'Descontos e Beneficios', 
     'Vitaminas', 'Perfumes', 
     'Linha Infantil'
